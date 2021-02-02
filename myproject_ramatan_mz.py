@@ -1,5 +1,5 @@
 """ This Application supply statistical information about BikeShare"""
-""" Developed By Ramatan,  MZ,  www.Ramatan.com  """
+""" Developed By MZ, Ramatan Technology,  www.Ramatan.com  """
 
 import time
 import pandas as pd
